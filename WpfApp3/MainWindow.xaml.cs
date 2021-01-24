@@ -24,5 +24,10 @@ namespace WpfApp3
         {
             InitializeComponent();
         }
+
+        private void TextBox_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            MessageBox.Show("jjjj");
+        }
     }
 }

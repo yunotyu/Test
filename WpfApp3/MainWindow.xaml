@@ -11,6 +11,7 @@
         <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="357,193,0,0" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="202,313,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="335,313,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox MouseDown="TextBox_MouseDown" HorizontalAlignment="Left" Height="23" Margin="539,275,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
