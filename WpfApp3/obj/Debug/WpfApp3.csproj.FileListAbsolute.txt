@@ -1,0 +1,15 @@
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\App.g.cs
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\yfr\Source\Repos\yunotyu\test\WpfApp3\obj\Debug\WpfApp3.pdb
